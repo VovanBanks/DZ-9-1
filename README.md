@@ -8,3 +8,4 @@
 * ДЗ 9.4 «Prometheus»
 * ДЗ 9.5 «Prometheus. Ч. 2»
 * ДЗ 10.2 «Кластеризация»
+* ДЗ 10.1 «Keepalived/vrrp»
